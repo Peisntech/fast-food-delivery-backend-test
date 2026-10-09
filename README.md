@@ -18,6 +18,7 @@ Am currently testing endpoints for authentic Ugandan cuisine(local food) deliver
 | POST | `/api/orders` | 🧪 Testing | Create test order |
 
 # Test in  Postman
+https://peisntech.github.io/fast-food-delivery-backend-test/
 GET http://localhost:5000/api/foods
 POST http://localhost:5000/api/orders
 Body: { "customer": "Test User", "foodId": 1, "quantity": 2 }
